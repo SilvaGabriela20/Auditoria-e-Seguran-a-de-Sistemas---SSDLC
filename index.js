@@ -6,7 +6,7 @@ app.get('/', (req, res) => {
   res.json({
     status: "Sucesso",
     message: "Aplicação SSDLC rodando perfeitamente!",
-    membros: ["Gabriela", "Integrante 2"]
+    membros: ["Gabriela da Silva de Liz", "Sistemas de Informação - 2026"]
   });
 });
 
